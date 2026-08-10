@@ -1,0 +1,7 @@
+com/example/tickets/repository/TicketRepository.class
+com/example/tickets/controller/TicketController.class
+com/example/tickets/model/Estado.class
+com/example/tickets/model/Ticket.class
+com/example/tickets/model/Prioridad.class
+com/example/tickets/service/TicketService.class
+com/example/tickets/TicketsApplication.class
