@@ -1,6 +1,6 @@
 'use strict';
 
-const API_URL = 'http://localhost:8080/api/tickets';
+const API_URL = '/api/tickets';
 const formulario = document.getElementById('ticketForm');
 const cuerpoTabla = document.getElementById('ticketsBody');
 const guardarBtn = document.getElementById('guardarBtn');
